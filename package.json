@@ -1,0 +1,20 @@
+{
+  "name": "cikojeriko6151",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "dependents": {
+      "crypto-utility-xid": "^1.0.0"
+  },
+  "keywords": [
+      "crypto",
+      "currency",
+      "utility"
+  ],
+  "author": "cikojeriko615",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/cikojeriko615/cikojeriko6151.git"
+  }
+}
